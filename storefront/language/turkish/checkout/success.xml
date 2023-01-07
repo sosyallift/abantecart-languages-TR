@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Ihre Bestellung ist ausgeführt worden!]]></value>
+  </definition>
+  <definition>
+    <key>text_message</key>
+    <value><![CDATA[<p> Ihre Bestellung wurde erfolgreich verarbeitet! </p><p> Sie können Ihre Bestellung Geschichte, indem Sie zu der Ansicht, <a href="%s">Ihr Konto</a> jederzeit einsehen und sich über <a href="%s">Geschichte</a> . </p><p> Bitte richten Sie alle Fragen, die Sie an den <a href="%s">Ladenbesitzer</a> . </p><p> Vielen Dank für Ihren Einkauf bei uns online! </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_message_guest</key>
+    <value><![CDATA[<p> Ihre Bestellung wurde erfolgreich verarbeitet! </p><p> Bitte richten Sie alle Fragen, die Sie an den <a href="%s">Ladenbesitzer</a> . </p><p> Vielen Dank für Ihren Einkauf bei uns online! </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_basket</key>
+    <value><![CDATA[Korb]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping</key>
+    <value><![CDATA[Versand]]></value>
+  </definition>
+  <definition>
+    <key>text_payment</key>
+    <value><![CDATA[Zahlung]]></value>
+  </definition>
+  <definition>
+    <key>text_guest</key>
+    <value><![CDATA[Gast Kasse]]></value>
+  </definition>
+  <definition>
+    <key>text_confirm</key>
+    <value><![CDATA[Bestätigen]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg]]></value>
+  </definition>
+</definitions>

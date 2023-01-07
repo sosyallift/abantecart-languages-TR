@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Kasse Failure]]></value>
+  </definition>
+  <definition>
+    <key>text_basket</key>
+    <value><![CDATA[Korb]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping</key>
+    <value><![CDATA[Versand]]></value>
+  </definition>
+  <definition>
+    <key>text_payment</key>
+    <value><![CDATA[Zahlung]]></value>
+  </definition>
+  <definition>
+    <key>text_failure</key>
+    <value><![CDATA[Scheitern]]></value>
+  </definition>
+  <definition>
+    <key>text_message</key>
+    <value><![CDATA[<p> Es gab ein Problem beim Versuch zur Abwicklung Ihrer Bestellung! </p><p> Wenn das Problem weiterhin besteht bitte versuchen Sie eine andere Zahlungsmethode oder Sie können die Ladenbesitzer so kontaktieren <a href="%s">Sie hier klicken</a> .]]></value>
+  </definition>
+</definitions>

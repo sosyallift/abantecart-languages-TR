@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Zahlungsinformationen]]></value>
+  </definition>
+  <definition>
+    <key>text_basket</key>
+    <value><![CDATA[Korb]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping</key>
+    <value><![CDATA[Versand]]></value>
+  </definition>
+  <definition>
+    <key>text_payment</key>
+    <value><![CDATA[Zahlung]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_to</key>
+    <value><![CDATA[Bitte wählen Sie aus Ihrem Adressbuch, wo man möchte die Rechnung geschickt würden.]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_address</key>
+    <value><![CDATA[Payment-Adresse]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_method</key>
+    <value><![CDATA[Zahlungs-Methode]]></value>
+  </definition>
+  <definition>
+    <key>text_payment_methods</key>
+    <value><![CDATA[Bitte wählen Sie die gewünschte Zahlungsweise für Ihre Bestellung aus.]]></value>
+  </definition>
+  <definition>
+    <key>text_comments</key>
+    <value><![CDATA[Fügen Sie Kommentare zu Ihrer Bestellung]]></value>
+  </definition>
+  <definition>
+    <key>text_agree</key>
+    <value><![CDATA[Ich habe gelesen und bin damit einverstanden ]]></value>
+  </definition>
+  <definition>
+    <key>text_coupon</key>
+    <value><![CDATA[Geben Sie Ihren Code ein und klicken Sie auf &quot;Apply Coupon&quot;, um zu sehen, und Ihr Rabatt sofort auf Ihre Bestellung angewendet.]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Ihr Gutschein-Rabatt angewendet worden ist!]]></value>
+  </definition>
+  <definition>
+    <key>entry_coupon</key>
+    <value><![CDATA[Kupon:]]></value>
+  </definition>
+  <definition>
+    <key>error_payment</key>
+    <value><![CDATA[Fehler: Zahlungsweise erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_agree</key>
+    <value><![CDATA[Fehler: Sie müssen mit dem zustimmen %s !]]></value>
+  </definition>
+  <definition>
+    <key>error_coupon</key>
+    <value><![CDATA[Fehler: Coupon ist entweder ungültig oder abgelaufen ist oder erreicht es die Nutzung unbegrenzt!]]></value>
+  </definition>
+</definitions>

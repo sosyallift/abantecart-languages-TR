@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Ihr Konto wurde erstellt!]]></value>
+  </definition>
+  <definition>
+    <key>text_message</key>
+    <value><![CDATA[<p> Herzlichen Glückwunsch! Ihr neues Konto wurde erfolgreich erstellt! </p><p> Sie können jetzt die Vorteile der über Ihr Kundenkonto Online-Shopping-Erlebnis mit uns zu verbessern. </p><p> Wenn Sie irgendwelche Fragen über den Betrieb dieses Online-Shop haben, wenden Sie sich bitte an den Vertrieb. </p><p> Eine Bestätigung über die angegebene E-Mail-Adresse gesendet. Wenn Sie nicht innerhalb einer Stunde erhalten, wenden Sie sich bitte <a href="%s">Kontakt mit uns auf</a> . </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_approval</key>
+    <value><![CDATA[<p> Danke für die Registrierung mit %s ! </p><p> Sie werden per Email benachrichtigt, sobald Ihr Konto wurde vom Ladenbesitzer aktiviert worden. </p><p> Wenn Sie irgendwelche Fragen über den Betrieb dieses Online-Shop haben, bitte <a href="%s">setzen Sie sich</a> . </p>]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Konto]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg]]></value>
+  </definition>
+</definitions>

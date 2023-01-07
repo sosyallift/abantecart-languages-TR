@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>text_subject</key>
+    <value><![CDATA[%s - Neues Passwort]]></value>
+  </definition>
+  <definition>
+    <key>text_greeting</key>
+    <value><![CDATA[Ein neues Passwort wurde angefordert %s .]]></value>
+  </definition>
+  <definition>
+    <key>text_password</key>
+    <value><![CDATA[Ihr neues Passwort ist, um:]]></value>
+  </definition>
+</definitions>

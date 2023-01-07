@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>text_subject</key>
+    <value><![CDATA[%s - Danke für die Registrierung]]></value>
+  </definition>
+  <definition>
+    <key>text_welcome</key>
+    <value><![CDATA[Willkommen und vielen Dank für Ihre Registrierung bei %s !]]></value>
+  </definition>
+  <definition>
+    <key>text_login</key>
+    <value><![CDATA[Ihr Konto ist nun erstellt und können Sie sich einloggen, indem Sie Ihre E-Mail-Adresse und das Passwort durch den Besuch unserer Website oder unter der folgenden URL:]]></value>
+  </definition>
+  <definition>
+    <key>text_approval</key>
+    <value><![CDATA[Ihr Konto muss genehmigt werden, bevor Sie sich anmelden können. Nach der Genehmigung können Sie sich mit Ihrer E-Mail-Adresse und das Passwort durch den Besuch unserer Website oder unter der folgenden URL anmelden:]]></value>
+  </definition>
+  <definition>
+    <key>text_services</key>
+    <value><![CDATA[Nach dem Einloggen können Sie sich mit anderen Diensten einschließlich der Überprüfung von früheren Bestellungen, Rechnungen drucken und bearbeiten Sie Ihre Kontoinformationen zuzugreifen.]]></value>
+  </definition>
+  <definition>
+    <key>text_thanks</key>
+    <value><![CDATA[Danke,]]></value>
+  </definition>
+</definitions>

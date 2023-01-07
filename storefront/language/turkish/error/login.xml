@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Einloggen Error!]]></value>
+  </definition>
+  <definition>
+    <key>text_login</key>
+    <value><![CDATA[Sie sind nicht angemeldet Sie werden umgeleitet zur Login-Seite werden]]></value>
+  </definition>
+</definitions>

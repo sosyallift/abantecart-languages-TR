@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>turkish_language_name</key>
+		<value><![CDATA[Türkçe dil paketi]]></value>
+	</definition>
+	<definition>
+		<key>turkish_language_status</key>
+		<value><![CDATA[Durum]]></value>
+	</definition>
+	<definition>
+		<key>turkish_language_note</key>
+		<value><![CDATA[<b>Dikkat!</b> Lütfen System->Localizations-><a href="#admin#rt=localisation/language">Diller</a>'de uzantıyı etkinleştirin ve dili etkinleştirin. 
+		<br><b>Metni düzenle</b>: Yanlış çeviriler fark ederseniz dil metnini System->Localizations-><a href="#admin#rt=localisation/language_definitions">Dil Tanımları</a>'nda düzeltebilirsiniz.
+		<br><b>Eksik metin:</b> Yeni dil eklerseniz, yeni dil çevirisine sahip olmak için mağaza içeriğini (dinamik alışveriş sepeti verileri) güncellemeniz gerekir.   
+		]]></value>
+	</definition>
+</definitions>

@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>code</key>
+		<value><![CDATA[tr]]></value>
+	</definition>
+	<definition>
+		<key>direction</key>
+		<value><![CDATA[ltr]]></value>
+	</definition>
+	<definition>
+		<key>date_format_short</key>
+		<value><![CDATA[m/d/Y]]></value>
+	</definition>
+	<definition>
+		<key>date_format_long</key>
+		<value><![CDATA[l dS F Y]]></value>
+	</definition>
+	<definition>
+		<key>time_format</key>
+		<value><![CDATA[h:i:s A]]></value>
+	</definition>
+	<definition>
+		<key>time_format_short</key>
+		<value><![CDATA[H:i]]></value>
+	</definition>
+	<definition>
+		<key>decimal_point</key>
+		<value><![CDATA[.]]></value>
+	</definition>
+	<definition>
+		<key>thousand_point</key>
+		<value><![CDATA[,]]></value>
+	</definition>
+	<definition>
+		<key>text_yes</key>
+		<value><![CDATA[Evet]]></value>
+	</definition>
+	<definition>
+		<key>text_no</key>
+		<value><![CDATA[Hayır]]></value>
+	</definition>
+	<definition>
+		<key>text_plus</key>
+		<value><![CDATA[+]]></value>
+	</definition>
+	<definition>
+		<key>text_minus</key>
+		<value><![CDATA[-]]></value>
+	</definition>
+	<definition>
+		<key>text_enabled</key>
+		<value><![CDATA[Etkinleştir]]></value>
+	</definition>
+	<definition>
+		<key>text_disabled</key>
+		<value><![CDATA[Engelli]]></value>
+	</definition>
+	<definition>
+		<key>text_none</key>
+		<value><![CDATA[ --- Hiçbiri --- ]]></value>
+	</definition>
+	<definition>
+		<key>text_select</key>
+		<value><![CDATA[ --- Lütfen seçin --- ]]></value>
+	</definition>
+	<definition>
+		<key>text_select_all</key>
+		<value><![CDATA[Tümünü Seç]]></value>
+	</definition>
+	<definition>
+		<key>text_unselect_all</key>
+		<value><![CDATA[Seçimi Kaldır]]></value>
+	</definition>
+	<definition>
+		<key>text_all_zones</key>
+		<value><![CDATA[Tüm Bölgeler]]></value>
+	</definition>
+	<definition>
+		<key>text_default</key>
+		<value><![CDATA[(Varsayılan)]]></value>
+	</definition>
+	<definition>
+		<key>text_close</key>
+		<value><![CDATA[Kapat]]></value>
+	</definition>
+	<definition>
+		<key>text_pagination</key>
+		<value><![CDATA[{total} ({pages} Sayfadan) {start} ile {end} arası gösteriliyor]]></value>
+	</definition>
+	<definition>
+		<key>text_per_page</key>
+		<value><![CDATA[Sayfa Başına]]></value>
+	</definition>
+	<definition>
+		<key>text_no_results</key>
+		<value><![CDATA[Sonuç bulunamadı.]]></value>
+	</definition>
+	<definition>
+		<key>text_separator</key>
+		<value><![CDATA[ &gt; ]]></value>
+	</definition>
+	<definition>
+		<key>text_edit</key>
+		<value><![CDATA[Düzenle]]></value>
+	</definition>
+	<definition>
+		<key>text_view</key>
+		<value><![CDATA[Görünüş]]></value>
+	</definition>
+	<definition>
+		<key>text_home</key>
+		<value><![CDATA[Ana Sayfa]]></value>
+	</definition>
+	<definition>
+		<key>button_insert</key>
+		<value><![CDATA[Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_delete</key>
+		<value><![CDATA[Sil]]></value>
+	</definition>
+	<definition>
+		<key>button_save</key>
+		<value><![CDATA[Kaydet]]></value>
+	</definition>
+	<definition>
+		<key>button_save_and_close</key>
+		<value><![CDATA[Kaydet & Kapat]]></value>
+	</definition>
+	<definition>
+		<key>button_cancel</key>
+		<value><![CDATA[Kapat]]></value>
+	</definition>
+	<definition>
+		<key>button_reset</key>
+		<value><![CDATA[Yeniden Başlat]]></value>
+	</definition>
+	<definition>
+		<key>button_reload</key>
+		<value><![CDATA[RTekrar yükle]]></value>
+	</definition>
+	<definition>
+		<key>button_clear</key>
+		<value><![CDATA[Log Geçmişini Temizle]]></value>
+	</definition>
+	<definition>
+		<key>button_close</key>
+		<value><![CDATA[Kapat]]></value>
+	</definition>
+	<definition>
+		<key>button_upgrade</key>
+		<value><![CDATA[Güncelle]]></value>
+	</definition>
+	<definition>
+		<key>button_filter</key>
+		<value><![CDATA[Filtre]]></value>
+	</definition>
+	<definition>
+		<key>button_send</key>
+		<value><![CDATA[Gönder]]></value>
+	</definition>
+	<definition>
+		<key>button_edit</key>
+		<value><![CDATA[Düzenle]]></value>
+	</definition>
+	<definition>
+		<key>button_copy</key>
+		<value><![CDATA[Kopyala]]></value>
+	</definition>
+	<definition>
+		<key>button_agree</key>
+		<value><![CDATA[Katılıyorum]]></value>
+	</definition>
+	<definition>
+		<key>button_back</key>
+		<value><![CDATA[Geri Dön]]></value>
+	</definition>
+	<definition>
+	    <key>button_continue</key>
+	    <value><![CDATA[Devam Et]]></value>
+	</definition>
+	<definition>
+		<key>button_remove</key>
+		<value><![CDATA[Kaldır]]></value>
+	</definition>
+	<definition>
+		<key>button_backup</key>
+		<value><![CDATA[Yedekleme]]></value>
+	</definition>
+	<definition>
+		<key>button_restore</key>
+		<value><![CDATA[Eski Haline Getir]]></value>
+	</definition>
+	<definition>
+		<key>button_invoice</key>
+		<value><![CDATA[Fatura yazdır]]></value>
+	</definition>
+	<definition>
+		<key>button_invoices</key>
+		<value><![CDATA[Faturaları Yazdır]]></value>
+	</definition>
+	<definition>
+		<key>button_add_option</key>
+		<value><![CDATA[Opsiyon Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_option_value</key>
+		<value><![CDATA[OIpsiyon Açıklaması Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_discount</key>
+		<value><![CDATA[İndirim Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_special</key>
+		<value><![CDATA[Özele Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_image</key>
+		<value><![CDATA[Görsel Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_location_zone</key>
+		<value><![CDATA[Konum Bölgesi Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_rate</key>
+		<value><![CDATA[Vergi Oranı Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_add_history</key>
+		<value><![CDATA[Sipariş Geçmişi Ekle]]></value>
+	</definition>
+	<definition>
+		<key>button_actas</key>
+		<value><![CDATA[Adına hareket etmek]]></value>
+	</definition>
+	<definition>
+		<key>button_message</key>
+		<value><![CDATA[Bu müşteriyle iletişim kurun]]></value>
+	</definition>
+	<definition>
+		<key>button_approve</key>
+		<value><![CDATA[Onaylamak]]></value>
+	</definition>
+	<definition>
+		<key>button_generate</key>
+		<value><![CDATA[Oluşturmak]]></value>
+	</definition>
+	<definition>
+		<key>tab_admin</key>
+		<value><![CDATA[Admin]]></value>
+	</definition>
+	<definition>
+		<key>tab_data</key>
+		<value><![CDATA[Veri]]></value>
+	</definition>
+	<definition>
+		<key>tab_discount</key>
+		<value><![CDATA[İndirimler]]></value>
+	</definition>
+	<definition>
+		<key>tab_details</key>
+		<value><![CDATA[Mağaza Detayları]]></value>
+	</definition>
+	<definition>
+		<key>tab_checkout</key>
+		<value><![CDATA[Ödeme]]></value>
+	</definition>
+	<definition>
+		<key>tab_appearance</key>
+		<value><![CDATA[Dış Görünüş]]></value>
+	</definition>
+	<definition>
+		<key>tab_im</key>
+		<value><![CDATA[IM]]></value>
+	</definition>
+	<definition>
+		<key>tab_api</key>
+		<value><![CDATA[API]]></value>
+	</definition>
+	<definition>
+		<key>tab_general</key>
+		<value><![CDATA[Genel]]></value>
+	</definition>
+	<definition>
+		<key>tab_image</key>
+		<value><![CDATA[AEk Görseller]]></value>
+	</definition>
+	<definition>
+		<key>tab_option</key>
+		<value><![CDATA[Opsiyon]]></value>
+	</definition>
+	<definition>
+		<key>tab_system</key>
+		<value><![CDATA[Sistem]]></value>
+	</definition>
+	<definition>
+		<key>tab_store</key>
+		<value><![CDATA[Mağaza]]></value>
+	</definition>
+	<definition>
+		<key>tab_special</key>
+		<value><![CDATA[Özel]]></value>
+	</definition>
+	<definition>
+		<key>tab_local</key>
+		<value><![CDATA[Lokal]]></value>
+	</definition>
+	<definition>
+		<key>tab_mail</key>
+		<value><![CDATA[Mail]]></value>
+	</definition>
+	<definition>
+		<key>tab_order</key>
+		<value><![CDATA[Sipariş Detayları]]></value>
+	</definition>
+	<definition>
+		<key>tab_history</key>
+		<value><![CDATA[Sipariş Geçmişi]]></value>
+	</definition>
+	<definition>
+		<key>tab_product</key>
+		<value><![CDATA[Ürünler]]></value>
+	</definition>
+	<definition>
+		<key>tab_shipping</key>
+		<value><![CDATA[Teslimat Adresi]]></value>
+	</definition>
+	<definition>
+		<key>tab_payment</key>
+		<value><![CDATA[Fatura Adresi]]></value>
+	</definition>
+	<definition>
+		<key>entry_discount</key>
+		<value><![CDATA[İndirim]]></value>
+	</definition>
+	<definition>
+		<key>entry_special</key>
+		<value><![CDATA[Özel]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_1</key>
+		<value><![CDATA[Uyarı: Yüklenen dosya, php.ini deki upload_max_filesize yönergesini aşıyor!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_2</key>
+		<value>
+			<![CDATA[Uyarı: Yüklenen dosya, HTML formunda belirtilen MAX_FILE_SIZE yönergesini aşıyor!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_3</key>
+		<value><![CDATA[Uyarı: Yüklenen dosya yalnızca kısmen yüklendi!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_4</key>
+		<value><![CDATA[Uyarı: Hiçbir dosya yüklenmedi!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_6</key>
+		<value><![CDATA[Uyarı: Geçici bir klasör eksik!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_7</key>
+		<value><![CDATA[Uyarı: Diske dosya yazılamadı!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_8</key>
+		<value><![CDATA[Uyarı: Dosya yükleme, uzantı tarafından durduruldu!]]></value>
+	</definition>
+	<definition>
+		<key>error_upload_999</key>
+		<value><![CDATA[Uyarı: Hata kodu yok!]]></value>
+	</definition>
+	<definition>
+		<key>text_choose_action</key>
+		<value><![CDATA[Eylem seçin..]]></value>
+	</definition>
+	<definition>
+		<key>text_delete</key>
+		<value><![CDATA[Sil]]></value>
+	</definition>
+	<definition>
+		<key>text_delete_selected</key>
+		<value><![CDATA[Seçili Sil]]></value>
+	</definition>
+	<definition>
+		<key>text_save_selected</key>
+		<value><![CDATA[Seçili Kaydet]]></value>
+	</definition>
+	<definition>
+		<key>text_save_all</key>
+		<value><![CDATA[Tümünü Kaydet]]></value>
+	</definition>
+	<definition>
+		<key>text_select_status</key>
+		<value><![CDATA[- Durum Seç -]]></value>
+	</definition>
+	<definition>
+		<key>text_all_orders</key>
+		<value><![CDATA[Tüm siparişler]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm_password</key>
+		<value><![CDATA[Şifreyi Onayla]]></value>
+	</definition>
+	<definition>
+		<key>text_insert</key>
+		<value><![CDATA[Ekle]]></value>
+	</definition>
+	<definition>
+		<key>text_edit</key>
+		<value><![CDATA[Düzenle ]]></value>
+	</definition>
+	<definition>
+		<key>text_select_items</key>
+		<value><![CDATA[Lütfen Öğeleri Seçin]]></value>
+	</definition>
+	<definition>
+		<key>button_go</key>
+		<value><![CDATA[Git]]></value>
+	</definition>
+	<definition>
+		<key>search_everywhere</key>
+		<value><![CDATA[Tüm Sitede Ara]]></value>
+	</definition>
+	<definition>
+		<key>column_action</key>
+		<value><![CDATA[Aksiyon]]></value>
+	</definition>
+	<definition>
+		<key>error_permission_access</key>
+		<value><![CDATA[Uyarı: %s erişim izniniz yok!]]></value>
+	</definition>
+	<definition>
+		<key>error_permission_modify</key>
+		<value><![CDATA[Uyarı: %s üzerinde değişiklik yapma izniniz yok!]]></value>
+	</definition>
+	<definition>
+		<key>text_add</key>
+		<value><![CDATA[Ekle]]></value>
+	</definition>
+	<definition>
+		<key>text_add_block</key>
+		<value><![CDATA[Blok Ekle]]></value>
+	</definition>
+	<definition>
+		<key>text_resource_library</key>
+		<value><![CDATA[Kaynak Kitaplığı]]></value>
+	</definition>
+	<definition>
+		<key>text_add_media</key>
+		<value><![CDATA[Media Ekle]]></value>
+	</definition>
+	<definition>
+		<key>confirm_unmap_title</key>
+		<value><![CDATA[Kaynakları onayla Bağlantıyı kaldır]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm_unmap</key>
+		<value><![CDATA[Kaynakların bağlantısını kaldırmak istediğinizden emin misiniz??]]></value>
+	</definition>
+	<definition>
+		<key>confirm_del_title</key>
+		<value><![CDATA[Kaynakları onayla Sil]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm_del</key>
+		<value><![CDATA[Kaynakları silmek istediğinizden emin misiniz??]]></value>
+	</definition>
+	<definition>
+		<key>text_type_image</key>
+		<value><![CDATA[Resim]]></value>
+	</definition>
+	<definition>
+		<key>text_type_audio</key>
+		<value><![CDATA[Ses]]></value>
+	</definition>
+	<definition>
+		<key>text_type_video</key>
+		<value><![CDATA[Video]]></value>
+	</definition>
+	<definition>
+		<key>text_type_pdf</key>
+		<value><![CDATA[PDF Dokümanı]]></value>
+	</definition>
+	<definition>
+		<key>text_type_archive</key>
+		<value><![CDATA[Arşiv]]></value>
+	</definition>
+	<definition>
+		<key>text_type_download</key>
+		<value><![CDATA[İndirme Dosyası]]></value>
+	</definition>
+	<definition>
+		<key>button_unmap</key>
+		<value><![CDATA[Bağlantıyı kaldır]]></value>
+	</definition>
+	<definition>
+		<key>button_select_resource</key>
+		<value><![CDATA[seciniz]]></value>
+	</definition>
+	<definition>
+		<key>text_click_to_change</key>
+		<value><![CDATA[Değiştirmek için resme tıklayın]]></value>
+	</definition>
+	<definition>
+		<key>text_select_from_list</key>
+		<value><![CDATA[Listeden seçin]]></value>
+	</definition>
+	<definition>
+		<key>text_count_selected</key>
+		<value><![CDATA[Seçilen öğelerin sayısı:]]></value>
+	</definition>
+	<definition>
+		<key>text_delete_confirm</key>
+		<value><![CDATA[Lütfen silme işlemini onaylayın]]></value>
+	</definition>
+	<definition>
+		<key>text_save_edit</key>
+		<value><![CDATA[Ekle/Düzenle]]></value>
+	</definition>
+	<definition>
+		<key>text_apply</key>
+		<value><![CDATA[Uygulama]]></value>
+	</definition>
+	<definition>
+		<key>text_on_top</key>
+		<value><![CDATA[başa dön]]></value>
+	</definition>
+	<definition>
+		<key>text_all</key>
+		<value><![CDATA[Tümü]]></value>
+	</definition>
+	<definition>
+		<key>text_all_stores</key>
+		<value><![CDATA[Tüm Mağazalar]]></value>
+	</definition>
+	<definition>
+		<key>text_create_new_block</key>
+		<value><![CDATA[ Yeni Blok Oluştur ]]></value>
+	</definition>
+	<definition>
+		<key>button_unlink</key>
+		<value><![CDATA[Bağlantıyı kaldır.]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm_unlink</key>
+		<value><![CDATA[Kaynağın bağlantısını kaldırmak istediğinizden emin misiniz??]]></value>
+	</definition>
+	<definition>
+		<key>confirm_unlink_title</key>
+		<value><![CDATA[Kaynağın bağlantısını kaldır]]></value>
+	</definition>
+	<definition>
+		<key>text_select_store</key>
+		<value><![CDATA[Farklı bir mağaza seçin]]></value>
+	</definition>
+	<definition>
+		<key>text_click_browse_file</key>
+		<value><![CDATA[Dosyaya göz atmak için tıklayın]]></value>
+	</definition>
+	<definition>
+		<key>text_browse</key>
+		<value><![CDATA[Browse]]></value>
+	</definition>
+	<definition>
+		<key>text_or</key>
+		<value><![CDATA[veya]]></value>
+	</definition>
+	<definition>
+		<key>error_seo_keyword</key>
+		<value><![CDATA[SEO anahtar kelimesi <a target="_blank" href="%s">"%s"</a></a> zaten var!]]></value>
+	</definition>
+	<definition>
+		<key>column_update_date</key>
+		<value><![CDATA[Güncellemeyi Kaldır]]></value>
+	</definition>
+	<definition>
+		<key>text_automatic</key>
+		<value><![CDATA[Otomatik]]></value>
+	</definition>
+	<definition>
+		<key>text_sort_order</key>
+		<value><![CDATA[Sıralama Düzeni]]></value>
+	</definition>
+	<definition>
+		<key>text_select_copy_layout</key>
+		<value><![CDATA[Düzeni kopyalamak için seçin]]></value>
+	</definition>
+	<definition>
+		<key>text_apply_layout</key>
+		<value><![CDATA[Şimdi Uygula]]></value>
+	</definition>
+	<definition>
+		<key>text_new_download</key>
+		<value><![CDATA[Yeni İndirme]]></value>
+	</definition>
+	<definition>
+		<key>text_free</key>
+		<value><![CDATA[Ücretsiz]]></value>
+	</definition>
+	<definition>
+		<key>text_sure</key>
+		<value><![CDATA[Emin misin?]]></value>
+	</definition>
+	<definition>
+		<key>button_add</key>
+		<value><![CDATA[Ekle]]></value>
+	</definition>
+	<definition>
+		<key>text_please_confirm</key>
+		<value><![CDATA[Lütfen onaylayın]]></value>
+	</definition>
+	<definition>
+		<key>button_confirm</key>
+		<value><![CDATA[Onaylamak]]></value>
+	</definition>
+	<definition>
+		<key>button_download</key>
+		<value><![CDATA[İndir]]></value>
+	</definition>
+	<definition>
+		<key>recent_customers</key>
+		<value><![CDATA[Son Kayıtlı Müşteris]]></value>
+	</definition>
+	<definition>
+		<key>new_orders</key>
+		<value><![CDATA[Yeni siparişler]]></value>
+	</definition>
+	<definition>
+		<key>text_saved</key>
+		<value><![CDATA[Başarıyla kaydedildi]]></value>
+	</definition>
+	<definition>
+		<key>text_processing</key>
+		<value><![CDATA[İşleme...]]></value>
+	</definition>
+	<definition>
+		<key>text_next</key>
+		<value><![CDATA[İleri]]></value>
+	</definition>
+	<definition>
+		<key>text_previous</key>
+		<value><![CDATA[Öncesi]]></value>
+	</definition>
+	<definition>
+		<key>text_on</key>
+		<value><![CDATA[Açık]]></value>
+	</definition>
+	<definition>
+		<key>text_off</key>
+		<value><![CDATA[Kapalı]]></value>
+	</definition>
+	<definition>
+		<key>text_external_help</key>
+		<value><![CDATA[Harici Yardım]]></value>
+	</definition>
+	<definition>
+		<key>text_select_from_lookup</key>
+		<value><![CDATA[Aramak ve sonucu seçmek için yazmaya başlayın (name, model, sku, etc.)]]></value>
+	</definition>
+	<definition>
+		<key>text_continue_typing</key>
+		<value><![CDATA[yazmaya devam et...]]></value>
+	</definition>
+	<definition>
+		<key>text_looking_for</key>
+		<value><![CDATA[Arıyor]]></value>
+	</definition>
+	<definition>
+		<key>button_manage_extensions</key>
+		<value><![CDATA[Uzantıları Yönet]]></value>
+	</definition>
+	<definition>
+		<key>text_abc_notification</key>
+		<value><![CDATA[Yazılım Güncellemeleri ve Bildirimler]]></value>
+	</definition>
+	<definition>
+		<key>text_not_applicable</key>
+		<value><![CDATA[NA]]></value>
+	</definition>
+	<definition>
+		<key>text_share_embed_code</key>
+		<value><![CDATA[Get Embed Code]]></value>
+	</definition>
+	<definition>
+		<key>text_copy_embed_code</key>
+		<value><![CDATA[Bunu kopyalayın ve satmak istediğiniz HTML kodunuza yapıştırın]]></value>
+	</definition>
+	<definition>
+		<key>text_copy_embed_url</key>
+		<value><![CDATA[Bu URL yi kopyalayıp satmak istediğiniz başka bir siteye yapıştırın]]></value>
+	</definition>
+	<definition>
+		<key>button_retry</key>
+		<value><![CDATA[Yeniden Dene]]></value>
+	</definition>
+	<definition>
+		<key>text_system_error</key>
+		<value><![CDATA[Sistem hatasıyla karşılaşıldı. Sistem <a target="_blank" href="%s">mesajları</a> veya <a target="_blank" href="%s">hata günlüğünü kontrol edin</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_system_warning</key>
+		<value><![CDATA[Sistem uyarısı bildirildi. Sistem <a target="_blank" href="%s"> mesajlarını kontrol edin</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_system_notice</key>
+		<value><![CDATA[Sistem kaydı bildirimi bildirildi. Sistem <a target="_blank" href="%s">mesajlarını kontrol edin</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_set_related</key>
+		<value><![CDATA[İlgili Ayarla]]></value>
+	</definition>
+	<definition>
+		<key>tab_text</key>
+		<value><![CDATA[HTML/Text]]></value>
+	</definition>
+	<definition>
+		<key>tab_visual</key>
+		<value><![CDATA[Görsel]]></value>
+	</definition>
+	<definition>
+		<key>button_add_media</key>
+		<value><![CDATA[Medya Ekle]]></value>
+	</definition>
+	<definition>
+		<key>text_view_more</key>
+		<value><![CDATA[Daha fazla göster]]></value>
+	</definition>
+	<definition>
+		<key>text_admin</key>
+		<value><![CDATA[Control Paneli]]></value>
+	</definition>
+	<definition>
+		<key>text_storefront</key>
+		<value><![CDATA[Vitrin]]></value>
+	</definition>
+	<definition>
+		<key>text_texteditor_extended_mode</key>
+		<value><![CDATA[<a class="texteditor_ext_mode" href="%s" ><i class="fa fa-external-link"></i> Genişletilmiş Modda Düzenle</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_quick_view</key>
+		<value><![CDATA[Hızlı Görünüm]]></value>
+	</definition>
+	<definition>
+		<key>text_more_current</key>
+		<value><![CDATA[Tam sayfa düzenleme]]></value>
+	</definition>
+	<definition>
+		<key>text_more_new</key>
+		<value><![CDATA[Yeni sekme düzenleme]]></value>
+	</definition>
+	<definition>
+		<key>text_back_to_list</key>
+		<value><![CDATA[İlana geri dön]]></value>
+	</definition>
+	<definition>
+		<key>text_help_link</key>
+		<value><![CDATA[<a href="http://www.abantecart.com/contact-us" target="_abantecart">yardıma ihtiyacım var?</a>]]></value>
+	</definition>
+	<definition>
+		<key>text_subtract_order</key>
+		<value><![CDATA[Siparişi Çıkar]]></value>
+	</definition>
+	<definition>
+		<key>button_preview</key>
+		<value><![CDATA[Ön izleme]]></value>
+	</definition>
+	<definition>
+		<key>warning_extensions_with_layouts</key>
+		<value><![CDATA[ Takip eden <br> %s <br> uzantıları, seçilen şablonda bulunmayan sayfaları veya düzenleri içeriyor. Bu uzantıların özelliklerini dahil etmek için, yeni şablonu etkinleştirdikten sonra uzantıları yeniden yüklemeniz gerekir. Yeniden yükleme yardımcı olmazsa, yardım için yukarıdaki uzantıların orijinal geliştiricileriyle iletişime geçin. ]]></value>
+	</definition>
+</definitions>

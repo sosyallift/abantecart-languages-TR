@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Extensions Shop]]></value>
+  </definition>
+  <definition>
+    <key>text_install</key>
+    <value><![CDATA[Installieren]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall</key>
+    <value><![CDATA[Deinstallieren]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall_delete</key>
+    <value><![CDATA[Deinstallieren / Löschen]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall_confirm</key>
+    <value><![CDATA[Bitte bestätigen Sie wollen Verlängerung [% Verlängerung%] deinstallieren. Alle Einstellungen Erweiterung und die zugehörigen Daten gelöscht und könnten verloren gehen.]]></value>
+  </definition>
+  <definition>
+    <key>text_delete</key>
+    <value><![CDATA[Löschen]]></value>
+  </definition>
+  <definition>
+    <key>text_enlarge</key>
+    <value><![CDATA[Bild klicken zum Vergrößern]]></value>
+  </definition>
+  <definition>
+    <key>text_activate</key>
+    <value><![CDATA[Aktivieren]]></value>
+  </definition>
+  <definition>
+    <key>text_deactivate</key>
+    <value><![CDATA[Deaktivieren]]></value>
+  </definition>
+  <definition>
+    <key>text_left</key>
+    <value><![CDATA[Links]]></value>
+  </definition>
+  <definition>
+    <key>text_right</key>
+    <value><![CDATA[Rechts]]></value>
+  </definition>
+  <definition>
+    <key>text_date_added</key>
+    <value><![CDATA[Hinzugefügt am]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Erweiterungen zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_required_field</key>
+    <value><![CDATA[Achtung: Bitte füllen Sie diese Felder ausfüllen!]]></value>
+  </definition>
+  <definition>
+    <key>error_payment_uninstall</key>
+    <value><![CDATA[Warnung: Deaktivieren Sie vor der Erweiterung deinstallieren!]]></value>
+  </definition>
+  <definition>
+    <key>error_uninstall</key>
+    <value><![CDATA[Achtung: Deinstallieren Sie vor der Verlängerung Löschen!]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Einstellungen geändert Verlängerung!]]></value>
+  </definition>
+  <definition>
+    <key>text_extensions_store</key>
+    <value><![CDATA[Extensions Shop]]></value>
+  </definition>
+  <definition>
+    <key>text_required</key>
+    <value><![CDATA[Erforderlich]]></value>
+  </definition>
+  <definition>
+    <key>text_optional</key>
+    <value><![CDATA[Fakultativ]]></value>
+  </definition>
+  <definition>
+    <key>text_add_new</key>
+    <value><![CDATA[Neue Erweiterung hinzufügen]]></value>
+  </definition>
+  <definition>
+    <key>error_connect</key>
+    <value><![CDATA[Leider kann Ihr Abantecart nicht mit Verlängerung Store herstellen. Bitte finden Sie unter System-&gt; Fehlerprotokolle für weitere Einzelheiten.]]></value>
+  </definition>
+</definitions>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Passwort vergessen?]]></value>
+  </definition>
+  <definition>
+    <key>text_account</key>
+    <value><![CDATA[Konto]]></value>
+  </definition>
+  <definition>
+    <key>text_forgotten</key>
+    <value><![CDATA[Passwort vergessen?]]></value>
+  </definition>
+  <definition>
+    <key>text_your_email</key>
+    <value><![CDATA[Ihre E-Mail-Adresse]]></value>
+  </definition>
+  <definition>
+    <key>text_email</key>
+    <value><![CDATA[Geben Sie die E-Mail-Adresse mit Ihrem Konto verbunden. Klicken Sie einreichen, um Ihr Passwort Ihnen per E-Mail]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Ein neues Passwort wurde an Ihre E-Mail Adresse geschickt.]]></value>
+  </definition>
+  <definition>
+    <key>entry_email</key>
+    <value><![CDATA[E-Mail Adresse:]]></value>
+  </definition>
+  <definition>
+    <key>error_email</key>
+    <value><![CDATA[Fehler: Die E-Mail Adresse nicht in unseren Unterlagen gefunden, bitte versuchen Sie es erneut!]]></value>
+  </definition>
+</definitions>
