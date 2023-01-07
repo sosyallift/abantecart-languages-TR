@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Produkte]]></value>
+  </definition>
+  <definition>
+    <key>text_product</key>
+    <value><![CDATA[Produkt]]></value>
+  </definition>
+  <definition>
+    <key>tab_media</key>
+    <value><![CDATA[Medien]]></value>
+  </definition>
+  <definition>
+    <key>tab_shipping</key>
+    <value><![CDATA[Versand]]></value>
+  </definition>
+  <definition>
+    <key>tab_relations</key>
+    <value><![CDATA[Verhältnis]]></value>
+  </definition>
+  <definition>
+    <key>tab_promotions</key>
+    <value><![CDATA[Promotions]]></value>
+  </definition>
+  <definition>
+    <key>tab_extensions</key>
+    <value><![CDATA[Extensions]]></value>
+  </definition>
+  <definition>
+    <key>tab_layout</key>
+    <value><![CDATA[Seiten-Layout]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Produkte geändert!]]></value>
+  </definition>
+  <definition>
+    <key>text_success_copy</key>
+    <value><![CDATA[Erfolg: Sie haben sich erfolgreich klonen Produkt %s !]]></value>
+  </definition>
+  <definition>
+    <key>text_plus</key>
+    <value><![CDATA[+]]></value>
+  </definition>
+  <definition>
+    <key>text_minus</key>
+    <value><![CDATA[-]]></value>
+  </definition>
+  <definition>
+    <key>text_default</key>
+    <value><![CDATA[Default]]></value>
+  </definition>
+  <definition>
+    <key>text_product_summary</key>
+    <value><![CDATA[Produkt-Zusammenfassung]]></value>
+  </definition>
+  <definition>
+    <key>text_image_manager</key>
+    <value><![CDATA[Image Manager]]></value>
+  </definition>
+  <definition>
+    <key>text_option</key>
+    <value><![CDATA[Option]]></value>
+  </definition>
+  <definition>
+    <key>text_option_value</key>
+    <value><![CDATA[Optionswert]]></value>
+  </definition>
+  <definition>
+    <key>column_name</key>
+    <value><![CDATA[Name des Produkts]]></value>
+  </definition>
+  <definition>
+    <key>column_model</key>
+    <value><![CDATA[Modell]]></value>
+  </definition>
+  <definition>
+    <key>column_image</key>
+    <value><![CDATA[Bild]]></value>
+  </definition>
+  <definition>
+    <key>column_quantity</key>
+    <value><![CDATA[Menge]]></value>
+  </definition>
+  <definition>
+    <key>column_status</key>
+    <value><![CDATA[Status]]></value>
+  </definition>
+  <definition>
+    <key>column_price</key>
+    <value><![CDATA[Preis]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>entry_featured</key>
+    <value><![CDATA[Feature-Produkt:]]></value>
+  </definition>
+  <definition>
+    <key>entry_name</key>
+    <value><![CDATA[Produktname:]]></value>
+  </definition>
+  <definition>
+    <key>entry_meta_keywords</key>
+    <value><![CDATA[Meta Tag Schlüsselwörter:]]></value>
+  </definition>
+  <definition>
+    <key>entry_meta_description</key>
+    <value><![CDATA[Meta Tag Beschreibung:]]></value>
+  </definition>
+  <definition>
+    <key>entry_description</key>
+    <value><![CDATA[Beschreibung:]]></value>
+  </definition>
+  <definition>
+    <key>entry_store</key>
+    <value><![CDATA[Shops:]]></value>
+  </definition>
+  <definition>
+    <key>entry_keyword</key>
+    <value><![CDATA[SEO Schlagwort: <br/> <span class="help">SEO-Schlüssel, der in URL zeigen. Default-Wert wird auf Produktnamen eingestellt werden</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_model</key>
+    <value><![CDATA[Modell:]]></value>
+  </definition>
+  <definition>
+    <key>entry_sku</key>
+    <value><![CDATA[SKU:]]></value>
+  </definition>
+  <definition>
+    <key>entry_location</key>
+    <value><![CDATA[Misc Location:]]></value>
+  </definition>
+  <definition>
+    <key>entry_manufacturer</key>
+    <value><![CDATA[Hersteller:]]></value>
+  </definition>
+  <definition>
+    <key>entry_shipping</key>
+    <value><![CDATA[Benötigt Versand:]]></value>
+  </definition>
+  <definition>
+    <key>entry_ship_individually</key>
+    <value><![CDATA[Schiff Produkt Individuell: <br/> <span class="help">Produkt wird in einem separaten Paket versendet werden und zusätzliche Versandkosten werden in der Reihenfolge mit mehreren Artikeln hinzugefügt werden</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_shipping_price</key>
+    <value><![CDATA[Feste Liefer-Preis: <br/> <span class="help">Master-Einstellung mit fester Versandpreis für dieses Produkt.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_free_shipping</key>
+    <value><![CDATA[Kostenloser Versand: <br/> <span class="help">Meister Einstellung kostenloser Versand für dieses Produkt aktivieren.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_date_available</key>
+    <value><![CDATA[Termin verfügbar:]]></value>
+  </definition>
+  <definition>
+    <key>entry_option_quantity</key>
+    <value><![CDATA[Menge:]]></value>
+  </definition>
+  <definition>
+    <key>entry_quantity</key>
+    <value><![CDATA[Menge:]]></value>
+  </definition>
+  <definition>
+    <key>entry_minimum</key>
+    <value><![CDATA[Mindestbestellmenge: <br/> <span class="help">Erzwingen Sie eine Mindest-Bestellmenge</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_stock_status</key>
+    <value><![CDATA[Out Of Stock Status: <br/> <span class="help">Status angezeigt, wenn ein Produkt vorrätig ist</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_status</key>
+    <value><![CDATA[Status:]]></value>
+  </definition>
+  <definition>
+    <key>entry_tax_class</key>
+    <value><![CDATA[Steuerklasse:]]></value>
+  </definition>
+  <definition>
+    <key>entry_cost</key>
+    <value><![CDATA[Kosten: <br/> <span class="help">Die Kosten für Großhandel Gewinn Berichterstattung verwendet</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_price</key>
+    <value><![CDATA[Preis:]]></value>
+  </definition>
+  <definition>
+    <key>entry_track_option_stock</key>
+    <value><![CDATA[Verfolgen Lager:]]></value>
+  </definition>
+  <definition>
+    <key>entry_subtract</key>
+    <value><![CDATA[Subtrahieren Lager:]]></value>
+  </definition>
+  <definition>
+    <key>entry_weight_class</key>
+    <value><![CDATA[Gewichtsklasse:]]></value>
+  </definition>
+  <definition>
+    <key>entry_weight</key>
+    <value><![CDATA[Gewicht:]]></value>
+  </definition>
+  <definition>
+    <key>entry_length_class</key>
+    <value><![CDATA[Länge der Klasse:]]></value>
+  </definition>
+  <definition>
+    <key>entry_length</key>
+    <value><![CDATA[Länge:]]></value>
+  </definition>
+  <definition>
+    <key>entry_width</key>
+    <value><![CDATA[Breite:]]></value>
+  </definition>
+  <definition>
+    <key>entry_height</key>
+    <value><![CDATA[Höhe:]]></value>
+  </definition>
+  <definition>
+    <key>entry_dimension</key>
+    <value><![CDATA[Abmessungen (L x B x H):]]></value>
+  </definition>
+  <definition>
+    <key>entry_image</key>
+    <value><![CDATA[Bild: <br /> <span class="help">Klicken Sie auf Bild, um es zu ändern.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_customer_group</key>
+    <value><![CDATA[Customer Group:]]></value>
+  </definition>
+  <definition>
+    <key>entry_date_start</key>
+    <value><![CDATA[Datum Beginn:]]></value>
+  </definition>
+  <definition>
+    <key>entry_date_end</key>
+    <value><![CDATA[Datum Ende:]]></value>
+  </definition>
+  <definition>
+    <key>entry_priority</key>
+    <value><![CDATA[Priorität:]]></value>
+  </definition>
+  <definition>
+    <key>entry_option</key>
+    <value><![CDATA[Option:]]></value>
+  </definition>
+  <definition>
+    <key>entry_option_value</key>
+    <value><![CDATA[Option Wert:]]></value>
+  </definition>
+  <definition>
+    <key>entry_sort_order</key>
+    <value><![CDATA[Sortiert nach:]]></value>
+  </definition>
+  <definition>
+    <key>entry_prefix</key>
+    <value><![CDATA[Prefix:]]></value>
+  </definition>
+  <definition>
+    <key>entry_option_prefix</key>
+    <value><![CDATA[Ändern Preis von:]]></value>
+  </definition>
+  <definition>
+    <key>entry_option_price</key>
+    <value><![CDATA[Preis Modifier:]]></value>
+  </definition>
+  <definition>
+    <key>entry_category</key>
+    <value><![CDATA[Kategorien:]]></value>
+  </definition>
+  <definition>
+    <key>entry_download</key>
+    <value><![CDATA[Downloads:]]></value>
+  </definition>
+  <definition>
+    <key>entry_related</key>
+    <value><![CDATA[Ähnliche Produkte:]]></value>
+  </definition>
+  <definition>
+    <key>entry_tags</key>
+    <value><![CDATA[Product Tags: <br /> <span class="help">Komma getrennt</span>]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Produkte zu modifizieren!]]></value>
+  </definition>
+  <definition>
+    <key>error_name</key>
+    <value><![CDATA[Name des Produkts muss größer als 3 und weniger als 255 Zeichen!]]></value>
+  </definition>
+  <definition>
+    <key>error_model</key>
+    <value><![CDATA[Product Model muss größer als 3 und weniger als 24 Zeichen!]]></value>
+  </definition>
+  <definition>
+    <key>error_required_data</key>
+    <value><![CDATA[Erforderliche Daten noch nicht eingegeben. Überprüfen Sie für das Feld Fehler!]]></value>
+  </definition>
+  <definition>
+    <key>error_product_not_found</key>
+    <value><![CDATA[Fehler: Artikel nicht gefunden!]]></value>
+  </definition>
+  <definition>
+    <key>filter_product</key>
+    <value><![CDATA[Suche nach Produkt]]></value>
+  </definition>
+  <definition>
+    <key>filter_any_word</key>
+    <value><![CDATA[Jedes dieser Worte]]></value>
+  </definition>
+  <definition>
+    <key>filter_all_words</key>
+    <value><![CDATA[Alle diese Wörter]]></value>
+  </definition>
+  <definition>
+    <key>filter_exact_match</key>
+    <value><![CDATA[Die genauen Wortgruppe]]></value>
+  </definition>
+  <definition>
+    <key>filter_all_categories</key>
+    <value><![CDATA[- Alle Kategorien -]]></value>
+  </definition>
+  <definition>
+    <key>filter_price_max</key>
+    <value><![CDATA[max]]></value>
+  </definition>
+  <definition>
+    <key>text_view</key>
+    <value><![CDATA[sehen]]></value>
+  </definition>
+  <definition>
+    <key>text_delete</key>
+    <value><![CDATA[löschen]]></value>
+  </definition>
+  <definition>
+    <key>text_choose_action</key>
+    <value><![CDATA[Wählen Sie Aktion]]></value>
+  </definition>
+  <definition>
+    <key>text_clone_selected</key>
+    <value><![CDATA[Klon ausgewählt]]></value>
+  </definition>
+  <definition>
+    <key>text_export_selected</key>
+    <value><![CDATA[Exportieren Sie ausgewählte]]></value>
+  </definition>
+  <definition>
+    <key>text_delete_selected</key>
+    <value><![CDATA[Löschen ausgewählt]]></value>
+  </definition>
+  <definition>
+    <key>text_edit_selected</key>
+    <value><![CDATA[Bearbeiten ausgewählt]]></value>
+  </definition>
+  <definition>
+    <key>text_clone</key>
+    <value><![CDATA[Klonen]]></value>
+  </definition>
+  <definition>
+    <key>text_export</key>
+    <value><![CDATA[Exportieren]]></value>
+  </definition>
+  <definition>
+    <key>text_select_category</key>
+    <value><![CDATA[- Kategorie wählen -]]></value>
+  </definition>
+  <definition>
+    <key>text_option_name</key>
+    <value><![CDATA[Option Name]]></value>
+  </definition>
+  <definition>
+    <key>text_group_option</key>
+    <value><![CDATA[Gruppe Option]]></value>
+  </definition>
+  <definition>
+    <key>text_option_type</key>
+    <value><![CDATA[Option Typ]]></value>
+  </definition>
+  <definition>
+    <key>text_option_values</key>
+    <value><![CDATA[Optionswerte]]></value>
+  </definition>
+  <definition>
+    <key>text_no_option_values</key>
+    <value><![CDATA[Keine Option Werte]]></value>
+  </definition>
+  <definition>
+    <key>text_edit_option_values</key>
+    <value><![CDATA[Bearbeiten Optionswert]]></value>
+  </definition>
+  <definition>
+    <key>text_save_option_values</key>
+    <value><![CDATA[Speichern Optionswert]]></value>
+  </definition>
+  <definition>
+    <key>button_remove_option</key>
+    <value><![CDATA[Entfernen Option]]></value>
+  </definition>
+  <definition>
+    <key>text_option_removed</key>
+    <value><![CDATA[Option entfernt]]></value>
+  </definition>
+  <definition>
+    <key>entry_weight_type</key>
+    <value><![CDATA[Gewicht Typ]]></value>
+  </definition>
+  <definition>
+    <key>text_product_pagination</key>
+    <value><![CDATA[Produkt (e) {start} zu {end} von {total}]]></value>
+  </definition>
+  <definition>
+    <key>entry_product_id</key>
+    <value><![CDATA[Product ID]]></value>
+  </definition>
+  <definition>
+    <key>error_product_load</key>
+    <value><![CDATA[Warnung: Kein Produkt mit einer solchen ID!]]></value>
+  </definition>
+  <definition>
+    <key>error_attribute_not_selected</key>
+    <value><![CDATA[Bitte wählen Sie Option, um hinzuzufügen!]]></value>
+  </definition>
+  <definition>
+    <key>error_date</key>
+    <value><![CDATA[&quot;Datum Ende&quot; kann nicht kleiner sein als &quot;Datum Start&quot;!]]></value>
+  </definition>
+  <definition>
+    <key>error_required</key>
+    <value><![CDATA[Diese Angabe wird benötigt!]]></value>
+  </definition>
+  <definition>
+    <key>error_option_in_group</key>
+    <value><![CDATA[Option kann nicht dem Produkt hinzugefügt werden, als es ohnehin schon ist ein Teil der Gruppe Option!]]></value>
+  </definition>
+  <definition>
+    <key>text_success_layout</key>
+    <value><![CDATA[Erfolg: Sie haben Kategorie Seitenlayout geändert.]]></value>
+  </definition>
+  <definition>
+    <key>text_success_option</key>
+    <value><![CDATA[Erfolg: Sie haben Produkt-Option geändert.]]></value>
+  </definition>
+  <definition>
+    <key>text_add_new_option</key>
+    <value><![CDATA[- Fügen Sie neue Option -]]></value>
+  </definition>
+  <definition>
+    <key>entry_required</key>
+    <value><![CDATA[Erforderlich:]]></value>
+  </definition>
+  <definition>
+    <key>entry_element_type</key>
+    <value><![CDATA[Elementtyp:]]></value>
+  </definition>
+  <definition>
+    <key>entry_element_values</key>
+    <value><![CDATA[Elementwerte:]]></value>
+  </definition>
+  <definition>
+    <key>text_expand</key>
+    <value><![CDATA[+ Erweitern]]></value>
+  </definition>
+  <definition>
+    <key>text_hide</key>
+    <value><![CDATA[- Verbergen]]></value>
+  </definition>
+</definitions>

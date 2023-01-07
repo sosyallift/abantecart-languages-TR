@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Customer Group]]></value>
+  </definition>
+  <definition>
+    <key>breadcrumb_title</key>
+    <value><![CDATA[Kunden-Gruppen]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Kundengruppen geändert!]]></value>
+  </definition>
+  <definition>
+    <key>column_name</key>
+    <value><![CDATA[Kunden-Group Name]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>entry_name</key>
+    <value><![CDATA[Customer Group Name:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Kundengruppen zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_name</key>
+    <value><![CDATA[Kunden-Group Name muss zwischen 2 und 64 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_default</key>
+    <value><![CDATA[Warnung: Diese Kundengruppe kann nicht gelöscht werden, wie sie derzeit als Standardspeicher Kundengruppe zugewiesen werden!]]></value>
+  </definition>
+  <definition>
+    <key>error_store</key>
+    <value><![CDATA[Warnung: Diese Kundengruppe kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Läden!]]></value>
+  </definition>
+  <definition>
+    <key>error_customer</key>
+    <value><![CDATA[Warnung: Diese Kundengruppe kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Kunden!]]></value>
+  </definition>
+</definitions>

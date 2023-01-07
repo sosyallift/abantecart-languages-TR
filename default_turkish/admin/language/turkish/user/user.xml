@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Benutzer]]></value>
+  </definition>
+  <definition>
+    <key>text_edit_details</key>
+    <value><![CDATA[Profil bearbeiten Einzelheiten]]></value>
+  </definition>
+  <definition>
+    <key>text_user</key>
+    <value><![CDATA[Benutzer]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Anwender geändert!]]></value>
+  </definition>
+  <definition>
+    <key>text_success_details</key>
+    <value><![CDATA[Erfolg: Sie haben Ihr Profil geändert!]]></value>
+  </definition>
+  <definition>
+    <key>column_username</key>
+    <value><![CDATA[Benutzername]]></value>
+  </definition>
+  <definition>
+    <key>column_group</key>
+    <value><![CDATA[Gruppe]]></value>
+  </definition>
+  <definition>
+    <key>column_status</key>
+    <value><![CDATA[Status]]></value>
+  </definition>
+  <definition>
+    <key>column_date_added</key>
+    <value><![CDATA[Aufgenommen am]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>entry_username</key>
+    <value><![CDATA[Benutzername:]]></value>
+  </definition>
+  <definition>
+    <key>entry_password</key>
+    <value><![CDATA[Passwort:]]></value>
+  </definition>
+  <definition>
+    <key>entry_confirm</key>
+    <value><![CDATA[Bestätigen:]]></value>
+  </definition>
+  <definition>
+    <key>entry_firstname</key>
+    <value><![CDATA[Vorname:]]></value>
+  </definition>
+  <definition>
+    <key>entry_lastname</key>
+    <value><![CDATA[Nachname:]]></value>
+  </definition>
+  <definition>
+    <key>entry_email</key>
+    <value><![CDATA[E-Mail:]]></value>
+  </definition>
+  <definition>
+    <key>entry_user_group</key>
+    <value><![CDATA[User Group:]]></value>
+  </definition>
+  <definition>
+    <key>entry_status</key>
+    <value><![CDATA[Status:]]></value>
+  </definition>
+  <definition>
+    <key>entry_captcha</key>
+    <value><![CDATA[Geben Sie den Code in das folgende Feld:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Benutzer zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_account</key>
+    <value><![CDATA[Warnung: Sie können nicht löschen Ihr eigenes Konto!]]></value>
+  </definition>
+  <definition>
+    <key>error_username</key>
+    <value><![CDATA[Benutzername muss zwischen 2 und 20 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_password</key>
+    <value><![CDATA[Das Passwort muss mehr als 3 Zeichen!]]></value>
+  </definition>
+  <definition>
+    <key>error_confirm</key>
+    <value><![CDATA[Passwort und Passwort Bestätigung stimmen nicht überein!]]></value>
+  </definition>
+  <definition>
+    <key>error_firstname</key>
+    <value><![CDATA[Vorname muss zwischen 2 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_lastname</key>
+    <value><![CDATA[Nachname muss zwischen 2 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_captcha</key>
+    <value><![CDATA[Bestätigungs-Code nicht mit dem Bild!]]></value>
+  </definition>
+  <definition>
+    <key>text_select_group</key>
+    <value><![CDATA[- Gruppe wählen -]]></value>
+  </definition>
+</definitions>

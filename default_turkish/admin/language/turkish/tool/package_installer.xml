@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>success</key>
+    <value><![CDATA[Success: Paket wurde erfolgreich installiert.]]></value>
+  </definition>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Package Installer]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_license</key>
+    <value><![CDATA[Package Lizenzvertrag]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_ftp</key>
+    <value><![CDATA[FTP-Zugang Parameter]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_download</key>
+    <value><![CDATA[Package Loading]]></value>
+  </definition>
+  <definition>
+    <key>text_preloading</key>
+    <value><![CDATA[Package-Datei% file% heruntergeladen werden.]]></value>
+  </definition>
+  <definition>
+    <key>text_loading</key>
+    <value><![CDATA[Download-Datei. Größe: %s . <br/> Es kann einige Sekunden je nach Verbindungsgeschwindigkeit zu nehmen.]]></value>
+  </definition>
+  <definition>
+    <key>text_key_hint</key>
+    <value><![CDATA[Geben Sie Installations-Schlüssel hier]]></value>
+  </definition>
+  <definition>
+    <key>text_ftp_user</key>
+    <value><![CDATA[FTP-Benutzername:]]></value>
+  </definition>
+  <definition>
+    <key>text_ftp_password</key>
+    <value><![CDATA[FTP-User Password:]]></value>
+  </definition>
+  <definition>
+    <key>text_ftp_host</key>
+    <value><![CDATA[FTP-Host: ftp://]]></value>
+  </definition>
+  <definition>
+    <key>text_ftp_path</key>
+    <value><![CDATA[FTP-Pfad:]]></value>
+  </definition>
+  <definition>
+    <key>text_i_agree</key>
+    <value><![CDATA[Ich bin mit der Lizenz]]></value>
+  </definition>
+  <definition>
+    <key>text_agree</key>
+    <value><![CDATA[Zustimmen]]></value>
+  </definition>
+  <definition>
+    <key>text_retry</key>
+    <value><![CDATA[Wiederholen]]></value>
+  </definition>
+  <definition>
+    <key>text_disagree</key>
+    <value><![CDATA[Stimme nicht zu]]></value>
+  </definition>
+  <definition>
+    <key>text_download_error</key>
+    <value><![CDATA[Es tut uns leid, aber in den Prozess der Ladevorgang der Datei Fehler aufgetreten. Bitte versuchen Sie es erneut oder zu stornieren.]]></value>
+  </definition>
+  <definition>
+    <key>text_continue</key>
+    <value><![CDATA[Fortsetzen]]></value>
+  </definition>
+  <definition>
+    <key>text_disclaimer_heading</key>
+    <value><![CDATA[Haftungsausschluss]]></value>
+  </definition>
+  <definition>
+    <key>text_disclaimer</key>
+    <value><![CDATA[<h3> Sehr geehrter Kunde AbanteCart, </h3><br> Sie sind im Begriff Dritte Erweiterung für Ihr AbanteCart installieren. <br><br> Bitte lesen Sie dieses Haftungsausschlusses über Dritte Erweiterung, die Sie gerade installieren. <br><br> Erweiterungen von Drittanbietern und Dienstleistungen werden von Drittanbietern zur Verfügung gestellt. <br><br> Obwohl, AbanteCart validieren Qualität der Erweiterungen und Services von Drittanbietern erbracht, tut AbanterCart nicht garantieren, dass alle Dritten Erweiterung korrekt funktionieren oder führt nicht zu Konflikten im System. AbanteCart Mitglieder und Angehörige sind in keiner Weise haftbar oder verantwortlich für Behauptungen im Zusammenhang mit den Produkten oder Dienstleistungen von Drittanbietern zur Verfügung gestellt. AbanteCart übernimmt keine Gewähr für die Qualität der Erweiterungen von Drittanbietern oder Dienstleistungen. Bitte richten Sie Ihre Anfragen bezüglich Erweiterungen von Drittanbietern oder Dienstleistungen an den entsprechenden Drittanbieter. Wenn Sie Sorge über jeglichen Drittanbieter haben wenden Sie sich bitte an AbanteCart <a href="http://www.abantecart.com/contact-us" target="_blank">http://www.abantecart.com/contact-us</a> <br><br> Mit freundlichen Grüßen, <br> AbanteCart <br> Ideal OpenSource eCommerce-Lösung]]></value>
+  </definition>
+  <definition>
+    <key>warning_ftp</key>
+    <value><![CDATA[Warnung: Das Verzeichnis mit den Erweiterungen nicht Schreibrechte haben. <br> Sie können dieses Recht oder <br> verwenden ftp-Zugang zum Server für die Installation von Paket (in der Regel Hosting-Provider sendet sie per E-Mail) <br>]]></value>
+  </definition>
+  <definition>
+    <key>warning_already_installed</key>
+    <value><![CDATA[<p class="success"> Sie haben bereits%% EXTENSION Erweiterung installiert! Wenn Sie fortfahren und aktualisieren möchten, bestätigen Sie bitte. </p>]]></value>
+  </definition>
+  <definition>
+    <key>warning_already_installed_uninstall</key>
+    <value><![CDATA[Sie haben bereits diese Erweiterung &quot;%% EXTENSION&quot; installiert! Wenn Sie fortfahren, um neu installieren möchten, wenden Sie sich bitte deinstallieren und löschen ersten Verlängerung.]]></value>
+  </definition>
+  <definition>
+    <key>error_pack_not_found</key>
+    <value><![CDATA[Fehler: Datei in Paket% Verpackung% existiert nicht.]]></value>
+  </definition>
+  <definition>
+    <key>error_repository</key>
+    <value><![CDATA[Fehler: Datei kann nicht heruntergeladen werden. Repository-Fehler oder ungültige Extension Key. Bitte versuchen Sie es später.]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_user</key>
+    <value><![CDATA[Fehler: FTP-Benutzername ist leer.]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_password</key>
+    <value><![CDATA[Fehler: FTP Benutzer Passwort ist leer.]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_connect</key>
+    <value><![CDATA[Fehler: Kann nicht auf FTP-Server herstellen]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_login</key>
+    <value><![CDATA[Fehler: Kann nicht auf FTP-Server einzuloggen. Benutzername oder Kennwort ungültig.]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_path</key>
+    <value><![CDATA[Fehler: Kann nicht finden, Root-Verzeichnis des FTP-Pfad durch AbanteCart. <br> Versuchen Sie es leer lassen für die automatische Suche.]]></value>
+  </definition>
+  <definition>
+    <key>error_ftp_path_array</key>
+    <value><![CDATA[Fehler: Kann nicht erkennen, automatische Root-Verzeichnis des FTP-AbanteCart in Mode. <br> Bitte füllen FTP-Pfad Formularfeld. <br> Path-Vorschläge sind:]]></value>
+  </definition>
+  <definition>
+    <key>error_dir_permission</key>
+    <value><![CDATA[Kann nicht auf Datei speichern, weil Verzeichnis ist nicht beschreibbar:]]></value>
+  </definition>
+  <definition>
+    <key>error_package_structure</key>
+    <value><![CDATA[Fehler: Vermutlich Paket ist gebrochen. Aufbau des Pakets Fehler.]]></value>
+  </definition>
+  <definition>
+    <key>error_package_config</key>
+    <value><![CDATA[Fehler: Kann nicht finden config-Datei package.xml innen Paket. Wahrscheinlich Paket ist gebrochen. Aufbau des Pakets Fehler.]]></value>
+  </definition>
+  <definition>
+    <key>error_package_config2</key>
+    <value><![CDATA[Fehler: Kann nicht finden Installationsmodus in package.xml innen Paket.]]></value>
+  </definition>
+  <definition>
+    <key>error_package_info_not_exists</key>
+    <value><![CDATA[Fehler: Cannot find Paket Sitzung Infos zu diesem Download ein.]]></value>
+  </definition>
+  <definition>
+    <key>error_unpack</key>
+    <value><![CDATA[Fehler: Kann nicht entpacken Paket &quot;% Verpackung%&quot; nach dem Download. Archiv Fehler. Finden Sie im Fehlerprotokoll für Details.]]></value>
+  </definition>
+  <definition>
+    <key>error_move</key>
+    <value><![CDATA[Fehler: Kann nicht bewegen Paketcode nach dem Auspacken. Bitte versuchen Sie es überprüfen Schreibrechte des Verzeichnisses:]]></value>
+  </definition>
+  <definition>
+    <key>error_install_mode</key>
+    <value><![CDATA[Fehler: Kann nicht installieren Erweiterung &quot;%% Paket&quot;, weil es bereits installiert. Sie müssen deinstallieren und löschen Sie sie zuerst bekommen oder Paket für das Upgrade.]]></value>
+  </definition>
+  <definition>
+    <key>error_install_mode2</key>
+    <value><![CDATA[Fehler: Kann nicht aktualisieren Erweiterung &quot;%% Paket&quot;, weil es nicht installiert. Sie benötigen für Paket installieren.]]></value>
+  </definition>
+  <definition>
+    <key>error_version_compability</key>
+    <value><![CDATA[Fehler: Kann nicht installieren Paket. Ihr Warenkorb ist <b>Version% current_version%.</b> Version <b>(en)% VERSIONEN%</b> erforderlich.]]></value>
+  </definition>
+  <definition>
+    <key>error_package_version_compability</key>
+    <value><![CDATA[Fehler: Kann nicht Upgrade-Paket. Neueres Paket-Version ist bereits installiert.]]></value>
+  </definition>
+  <definition>
+    <key>error_install</key>
+    <value><![CDATA[Fehler: Kann nicht installieren Paket. Bitte finden Sie unter System -&gt; Fehlerprotokoll für Details.]]></value>
+  </definition>
+  <definition>
+    <key>error_core_version</key>
+    <value><![CDATA[&quot;Fehler: Du musst AbanteCart Version% VERSION% installiert. <br> Das Upgrade-Paket nur für Versionen kleiner]]></value>
+  </definition>
+</definitions>

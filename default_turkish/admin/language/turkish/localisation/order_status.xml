@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Auftragsstatus]]></value>
+  </definition>
+  <definition>
+    <key>text_status</key>
+    <value><![CDATA[Status der Bestellung]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Auftragsstatus geändert!]]></value>
+  </definition>
+  <definition>
+    <key>column_name</key>
+    <value><![CDATA[Auftrag Status Name]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>entry_name</key>
+    <value><![CDATA[Status der Bestellung Name:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung zur Ordnung Statuen ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_name</key>
+    <value><![CDATA[Status der Bestellung Name muss zwischen 2 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_default</key>
+    <value><![CDATA[Warnung: Dieser Bestell-Status kann nicht gelöscht werden, wie sie derzeit als Standardspeicher Status der Bestellung zugeordnet werden!]]></value>
+  </definition>
+  <definition>
+    <key>error_download</key>
+    <value><![CDATA[Warnung: Dieser Bestell-Status kann nicht gelöscht werden, wie sie derzeit als Standard-Download-Status zugewiesen werden!]]></value>
+  </definition>
+  <definition>
+    <key>error_store</key>
+    <value><![CDATA[Warnung: Dieser Bestell-Status kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Läden!]]></value>
+  </definition>
+  <definition>
+    <key>error_order</key>
+    <value><![CDATA[Warnung: Dieser Bestell-Status kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Bestellungen!]]></value>
+  </definition>
+</definitions>

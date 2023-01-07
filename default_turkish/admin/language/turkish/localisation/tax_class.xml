@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Steuerklassen]]></value>
+  </definition>
+  <definition>
+    <key>text_class</key>
+    <value><![CDATA[Steuerklasse]]></value>
+  </definition>
+  <definition>
+    <key>text_rate</key>
+    <value><![CDATA[Tax Rate]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Steuerklassen geändert!]]></value>
+  </definition>
+  <definition>
+    <key>column_title</key>
+    <value><![CDATA[Steuerklasse Titel]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>tab_details</key>
+    <value><![CDATA[Einzelheiten]]></value>
+  </definition>
+  <definition>
+    <key>tab_rates</key>
+    <value><![CDATA[Preise]]></value>
+  </definition>
+  <definition>
+    <key>entry_title</key>
+    <value><![CDATA[Steuerklasse Titel:]]></value>
+  </definition>
+  <definition>
+    <key>entry_description</key>
+    <value><![CDATA[Beschreibung:]]></value>
+  </definition>
+  <definition>
+    <key>entry_location</key>
+    <value><![CDATA[Location:]]></value>
+  </definition>
+  <definition>
+    <key>entry_zone</key>
+    <value><![CDATA[Standort der Zone:]]></value>
+  </definition>
+  <definition>
+    <key>entry_priority</key>
+    <value><![CDATA[Priorität:]]></value>
+  </definition>
+  <definition>
+    <key>entry_rate</key>
+    <value><![CDATA[Tax Rate:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung zu Steuerklassen ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_tax_title</key>
+    <value><![CDATA[Tax Class Titel muss zwischen 2 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_rate</key>
+    <value><![CDATA[Tax Rate erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_product</key>
+    <value><![CDATA[Warnung: Diese Steuerklasse kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Produkte!]]></value>
+  </definition>
+  <definition>
+    <key>text_tax_all_zones</key>
+    <value><![CDATA[Lage alle Zonen]]></value>
+  </definition>
+</definitions>

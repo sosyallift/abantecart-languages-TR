@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Extensions]]></value>
+  </definition>
+  <definition>
+    <key>text_install</key>
+    <value><![CDATA[Installieren]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall</key>
+    <value><![CDATA[Deinstallieren]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall_delete</key>
+    <value><![CDATA[Deinstallieren / Löschen]]></value>
+  </definition>
+  <definition>
+    <key>text_uninstall_confirm</key>
+    <value><![CDATA[Bitte bestätigen Sie wollen Verlängerung [% Verlängerung%] deinstallieren. Alle Einstellungen Erweiterung und die zugehörigen Daten gelöscht und könnten verloren gehen.]]></value>
+  </definition>
+  <definition>
+    <key>text_delete</key>
+    <value><![CDATA[Löschen]]></value>
+  </definition>
+  <definition>
+    <key>text_enlarge</key>
+    <value><![CDATA[Bild klicken zum Vergrößern]]></value>
+  </definition>
+  <definition>
+    <key>text_activate</key>
+    <value><![CDATA[Aktivieren]]></value>
+  </definition>
+  <definition>
+    <key>text_deactivate</key>
+    <value><![CDATA[Deaktivieren]]></value>
+  </definition>
+  <definition>
+    <key>text_left</key>
+    <value><![CDATA[Links]]></value>
+  </definition>
+  <definition>
+    <key>text_right</key>
+    <value><![CDATA[Rechts]]></value>
+  </definition>
+  <definition>
+    <key>text_date_added</key>
+    <value><![CDATA[Hinzugefügt am]]></value>
+  </definition>
+  <definition>
+    <key>column_icon</key>
+    <value><![CDATA[Symbol]]></value>
+  </definition>
+  <definition>
+    <key>column_id</key>
+    <value><![CDATA[Erweiterungs-ID]]></value>
+  </definition>
+  <definition>
+    <key>column_required</key>
+    <value><![CDATA[Erforderlich]]></value>
+  </definition>
+  <definition>
+    <key>column_name</key>
+    <value><![CDATA[Extension Name]]></value>
+  </definition>
+  <definition>
+    <key>column_position</key>
+    <value><![CDATA[Position]]></value>
+  </definition>
+  <definition>
+    <key>column_update_date</key>
+    <value><![CDATA[Datum der Aktualisierung]]></value>
+  </definition>
+  <definition>
+    <key>column_category</key>
+    <value><![CDATA[Kategorie]]></value>
+  </definition>
+  <definition>
+    <key>column_status</key>
+    <value><![CDATA[Status]]></value>
+  </definition>
+  <definition>
+    <key>column_sort_order</key>
+    <value><![CDATA[Sortierung]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Schnelle Aktionen]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Erweiterungen zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_required_field</key>
+    <value><![CDATA[Achtung: Bitte füllen Sie diese Felder ausfüllen!]]></value>
+  </definition>
+  <definition>
+    <key>error_payment_uninstall</key>
+    <value><![CDATA[Warnung: Deaktivieren Sie vor der Erweiterung deinstallieren!]]></value>
+  </definition>
+  <definition>
+    <key>error_uninstall</key>
+    <value><![CDATA[Achtung: Deinstallieren Sie vor der Verlängerung Löschen!]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Einstellungen geändert Verlängerung!]]></value>
+  </definition>
+  <definition>
+    <key>text_restore_success</key>
+    <value><![CDATA[Erfolg: Sie haben Standarderweiterung Einstellungen wieder hergestellt!]]></value>
+  </definition>
+  <definition>
+    <key>text_extensions_store</key>
+    <value><![CDATA[Extensions Shop]]></value>
+  </definition>
+  <definition>
+    <key>text_required</key>
+    <value><![CDATA[Erforderlich]]></value>
+  </definition>
+  <definition>
+    <key>text_optional</key>
+    <value><![CDATA[Fakultativ]]></value>
+  </definition>
+  <definition>
+    <key>text_add_new</key>
+    <value><![CDATA[Neue Erweiterung hinzufügen]]></value>
+  </definition>
+  <definition>
+    <key>text_search</key>
+    <value><![CDATA[Suche]]></value>
+  </definition>
+  <definition>
+    <key>text_search_for_extension</key>
+    <value><![CDATA[Suche nach Erweiterung]]></value>
+  </definition>
+  <definition>
+    <key>text_missing_extension</key>
+    <value><![CDATA[&quot;Erweiterung% EXT%:. Quelle kann nicht gefunden werden Bitte löschen Sie es und besuchen <a href="http://abantecart.com" target="_repository">Extension Repository</a> , um es erneut zu downloaden &quot;]]></value>
+  </definition>
+  <definition>
+    <key>text_broken_extension</key>
+    <value><![CDATA[&quot;Extension% EXT%: Quelle wahrscheinlich kaputt Kann nicht finden config.xml oder main.php Dateien Bitte löschen Sie es und besuchen extention Anbieter komplette Quelltext bekommen und intall Sie es erneut.&quot;]]></value>
+  </definition>
+  <definition>
+    <key>text_extension_pagination</key>
+    <value><![CDATA[Erweiterung (en) {start} zu {end} von {total}]]></value>
+  </definition>
+  <definition>
+    <key>text_per_page</key>
+    <value><![CDATA[pro Seite]]></value>
+  </definition>
+  <definition>
+    <key>text_error_in_ajax</key>
+    <value><![CDATA[Fehler in der Ajax-Aufruf]]></value>
+  </definition>
+  <definition>
+    <key>text_saved</key>
+    <value><![CDATA[Gespeichert]]></value>
+  </definition>
+  <definition>
+    <key>text_save</key>
+    <value><![CDATA[Sparen]]></value>
+  </definition>
+  <definition>
+    <key>text_reset</key>
+    <value><![CDATA[Zurücksetzen]]></value>
+  </definition>
+  <definition>
+    <key>text_back</key>
+    <value><![CDATA[Zurück]]></value>
+  </definition>
+  <definition>
+    <key>text_additional_settings</key>
+    <value><![CDATA[Zusätzliche Einstellungen]]></value>
+  </definition>
+  <definition>
+    <key>text_reload</key>
+    <value><![CDATA[Nachladen]]></value>
+  </definition>
+  <definition>
+    <key>text_version</key>
+    <value><![CDATA[Version]]></value>
+  </definition>
+  <definition>
+    <key>text_installed_on</key>
+    <value><![CDATA[Installiert auf]]></value>
+  </definition>
+  <definition>
+    <key>text_installed</key>
+    <value><![CDATA[Installierte]]></value>
+  </definition>
+  <definition>
+    <key>text_not_installed</key>
+    <value><![CDATA[Nicht installiert]]></value>
+  </definition>
+  <definition>
+    <key>text_visit_repository</key>
+    <value><![CDATA[Bitte besuchen Sie <a href="http://abantecart.com" target="_repository">Extension Repository</a> zum Download-Erweiterung]]></value>
+  </definition>
+  <definition>
+    <key>text_license</key>
+    <value><![CDATA[Lizenz]]></value>
+  </definition>
+  <definition>
+    <key>text_dependency</key>
+    <value><![CDATA[Abhängigkeit]]></value>
+  </definition>
+  <definition>
+    <key>text_configuration_settings</key>
+    <value><![CDATA[Konfigurationseinstellungen]]></value>
+  </definition>
+  <definition>
+    <key>text_upgrade</key>
+    <value><![CDATA[Verbessern]]></value>
+  </definition>
+  <definition>
+    <key>text_help</key>
+    <value><![CDATA[Hilfe]]></value>
+  </definition>
+  <definition>
+    <key>text_dependencies</key>
+    <value><![CDATA[Abhängigkeiten]]></value>
+  </definition>
+  <definition>
+    <key>text_update_it</key>
+    <value><![CDATA[Neue Version (% NewVersion%) ist verfügbar]]></value>
+  </definition>
+  <definition>
+    <key>text_delete_confirm</key>
+    <value><![CDATA[Sind Sie sicher, Sie wollen Erweiterung löschen?]]></value>
+  </definition>
+  <definition>
+    <key>error_config_load</key>
+    <value><![CDATA[Fehler: Konnte keine Konfiguration laden für %s !]]></value>
+  </definition>
+  <definition>
+    <key>error_required_extension</key>
+    <value><![CDATA[%s Erweiterung kann nicht installiert werden: %s Erweiterung erforderlich]]></value>
+  </definition>
+  <definition>
+    <key>error_required_phpmodule</key>
+    <value><![CDATA[%s Erweiterung kann nicht installiert werden: %s PHP-Modul erforderlich]]></value>
+  </definition>
+  <definition>
+    <key>button_restore_defaults</key>
+    <value><![CDATA[Standardeinstellungen wiederherstellen]]></value>
+  </definition>
+  <definition>
+    <key>additional_settings_confirm</key>
+    <value><![CDATA[Um weitere Einstellungen der Verlängerung der anderen Laden Sie in der Systemsteuerung auf einem anderen Domain-Namen anmelden, eingestellt. Ok?]]></value>
+  </definition>
+  <definition>
+    <key>error_no_help_file</key>
+    <value><![CDATA[Sorry, es gibt keine Hilfe-Datei für diese Erweiterung.]]></value>
+  </definition>
+  <definition>
+    <key>text_more_help</key>
+    <value><![CDATA[Weitere Hilfe]]></value>
+  </definition>
+  <definition>
+    <key>entry_total_type</key>
+    <value><![CDATA[Typ]]></value>
+  </definition>
+  <definition>
+    <key>text_total</key>
+    <value><![CDATA[Gesamt]]></value>
+  </definition>
+  <definition>
+    <key>text_subtotal</key>
+    <value><![CDATA[Zwischensumme]]></value>
+  </definition>
+  <definition>
+    <key>text_shipping</key>
+    <value><![CDATA[Versand]]></value>
+  </definition>
+  <definition>
+    <key>text_tax</key>
+    <value><![CDATA[Steuer]]></value>
+  </definition>
+  <definition>
+    <key>text_fee</key>
+    <value><![CDATA[Gebühr]]></value>
+  </definition>
+  <definition>
+    <key>text_discount</key>
+    <value><![CDATA[Rabatt]]></value>
+  </definition>
+</definitions>

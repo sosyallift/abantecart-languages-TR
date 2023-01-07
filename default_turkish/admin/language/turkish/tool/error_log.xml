@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Error Log]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben erfolgreich Ihre Fehlerprotokoll gelöscht!]]></value>
+  </definition>
+  <definition>
+    <key>text_file_tail</key>
+    <value><![CDATA[Aufgrund der großen Größe der Log-Datei kann nur letzten 500Kb von Daten im hier eingesehen werden. Um eine vollständige Protokoll anzuzeigen, erhalten sie von Ihrem Server direkt. Pfad:]]></value>
+  </definition>
+</definitions>

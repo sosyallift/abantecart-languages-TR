@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Warenkorb Migration]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_step_one</key>
+    <value><![CDATA[- Schritt 1]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_step_two</key>
+    <value><![CDATA[- Schritt 2]]></value>
+  </definition>
+  <definition>
+    <key>heading_title_step_three</key>
+    <value><![CDATA[- Schritt 3]]></value>
+  </definition>
+  <definition>
+    <key>text_description</key>
+    <value><![CDATA[Migration-Tool können Sie importieren Daten aus einem anderen Wagen. <br> Hinweis: AbanteCart Unterstützung für MySQL Import nur für den Moment. <br> Drücken Sie auf Migration starten, um fortzufahren ...]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie Daten erfolgreich zu transfeerd Abantecart!]]></value>
+  </definition>
+  <definition>
+    <key>text_db_info</key>
+    <value><![CDATA[Database Info <span class="help">Hinweis: AbanteCart Unterstützung für MySQL Import nur für den Moment.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_type</key>
+    <value><![CDATA[Quelle Wagen-Typ:]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_url</key>
+    <value><![CDATA[Quelle Warenkorb URL:]]></value>
+  </definition>
+  <definition>
+    <key>entry_db_host</key>
+    <value><![CDATA[Datenbank-Host:]]></value>
+  </definition>
+  <definition>
+    <key>entry_db_user</key>
+    <value><![CDATA[Datenbank-Benutzer:]]></value>
+  </definition>
+  <definition>
+    <key>entry_db_password</key>
+    <value><![CDATA[Passwort:]]></value>
+  </definition>
+  <definition>
+    <key>entry_db_name</key>
+    <value><![CDATA[Database Name:]]></value>
+  </definition>
+  <definition>
+    <key>entry_db_prefix</key>
+    <value><![CDATA[Database Prefix:]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_select</key>
+    <value><![CDATA[- Wählen Sie den Warenkorb Art -]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_osc</key>
+    <value><![CDATA[Oscommerce 2.2RC2]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_oscmax</key>
+    <value><![CDATA[OsCMax]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_zen</key>
+    <value><![CDATA[ZenCart 1.3.9h]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_cre</key>
+    <value><![CDATA[CRE Loaded 6.4.1 STD]]></value>
+  </definition>
+  <definition>
+    <key>entry_cart_opencart</key>
+    <value><![CDATA[OpenCart 1.4.9]]></value>
+  </definition>
+  <definition>
+    <key>entry_migrate_data</key>
+    <value><![CDATA[Wählen Sie Daten migrieren]]></value>
+  </definition>
+  <definition>
+    <key>entry_migrate_data_categories</key>
+    <value><![CDATA[Kategorien]]></value>
+  </definition>
+  <definition>
+    <key>entry_migrate_data_products</key>
+    <value><![CDATA[Produkte, Kategorien, Marken]]></value>
+  </definition>
+  <definition>
+    <key>entry_migrate_data_customers</key>
+    <value><![CDATA[Kunden]]></value>
+  </definition>
+  <definition>
+    <key>entry_migrate_data_orders</key>
+    <value><![CDATA[Bestellungen]]></value>
+  </definition>
+  <definition>
+    <key>entry_erase_existing_data</key>
+    <value><![CDATA[Löschen vorhandener Daten?]]></value>
+  </definition>
+  <definition>
+    <key>button_start_migration</key>
+    <value><![CDATA[Migration starten]]></value>
+  </definition>
+  <definition>
+    <key>button_continue</key>
+    <value><![CDATA[Fortsetzen]]></value>
+  </definition>
+  <definition>
+    <key>button_back</key>
+    <value><![CDATA[Zurück]]></value>
+  </definition>
+  <definition>
+    <key>button_cancel</key>
+    <value><![CDATA[Stornieren]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um die Migration durchzuführen!]]></value>
+  </definition>
+  <definition>
+    <key>error_db_host</key>
+    <value><![CDATA[Host nicht benötigt!]]></value>
+  </definition>
+  <definition>
+    <key>error_db_user</key>
+    <value><![CDATA[Benutzer erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_db_name</key>
+    <value><![CDATA[Database Name erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_db_connection</key>
+    <value><![CDATA[Fehler: Konnte keine Verbindung zur Datenbank stellen Sie bitte sicher, dass der Datenbank-Server, Benutzername und Passwort richtig ist!]]></value>
+  </definition>
+  <definition>
+    <key>error_db_not_exist</key>
+    <value><![CDATA[Fehler: Datenbank existiert nicht!]]></value>
+  </definition>
+  <definition>
+    <key>error_cart_type</key>
+    <value><![CDATA[Fehler: Bitte wählen Sie Warenkorb Typ!]]></value>
+  </definition>
+  <definition>
+    <key>error_cart_url</key>
+    <value><![CDATA[Fehler: URL-Cart erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_cart_not_supported</key>
+    <value><![CDATA[Warnung: Chosen Warenkorb nicht unterstützt jetzt!]]></value>
+  </definition>
+  <definition>
+    <key>error_migrate_data</key>
+    <value><![CDATA[Fehler: Bitte wählen Sie mindestens ein Element!]]></value>
+  </definition>
+  <definition>
+    <key>text_no_customers</key>
+    <value><![CDATA[Hinweis: Kein einzelner Kunde importiert wurde.]]></value>
+  </definition>
+  <definition>
+    <key>text_no_products</key>
+    <value><![CDATA[Hinweis: Niemand Produkt importiert wurde.]]></value>
+  </definition>
+  <definition>
+    <key>text_no_orders</key>
+    <value><![CDATA[Hinweis: Niemand Reihenfolge importiert wurde.]]></value>
+  </definition>
+  <definition>
+    <key>text_no_brands</key>
+    <value><![CDATA[Hinweis: Niemand Marke importiert wurde.]]></value>
+  </definition>
+  <definition>
+    <key>text_no_categories</key>
+    <value><![CDATA[Hinweis: Niemand Produktkategorie importiert wurde.]]></value>
+  </definition>
+</definitions>

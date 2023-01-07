@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Post]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Ihre Nachricht wurde erfolgreich gesendet!]]></value>
+  </definition>
+  <definition>
+    <key>text_default</key>
+    <value><![CDATA[Default]]></value>
+  </definition>
+  <definition>
+    <key>text_newsletter</key>
+    <value><![CDATA[Alle Newsletter-Abonnenten]]></value>
+  </definition>
+  <definition>
+    <key>text_customer</key>
+    <value><![CDATA[Alle Kunden]]></value>
+  </definition>
+  <definition>
+    <key>text_search</key>
+    <value><![CDATA[Suche]]></value>
+  </definition>
+  <definition>
+    <key>entry_store</key>
+    <value><![CDATA[Von:]]></value>
+  </definition>
+  <definition>
+    <key>entry_product</key>
+    <value><![CDATA[Um Kunden, die Produkte bestellt haben:]]></value>
+  </definition>
+  <definition>
+    <key>entry_to</key>
+    <value><![CDATA[To:]]></value>
+  </definition>
+  <definition>
+    <key>entry_subject</key>
+    <value><![CDATA[Betreff:]]></value>
+  </definition>
+  <definition>
+    <key>entry_message</key>
+    <value><![CDATA[Nachricht:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um E-Mail zu senden!]]></value>
+  </definition>
+  <definition>
+    <key>error_subject</key>
+    <value><![CDATA[E-Mail Betreff erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_message</key>
+    <value><![CDATA[E-Mail Nachricht erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_recipients</key>
+    <value><![CDATA[Empfänger erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_not_sent</key>
+    <value><![CDATA[&#39;Fehler: E-Mails nicht versendet! Bitte beachten Sie Fehlerprotokoll für Details. &quot;]]></value>
+  </definition>
+</definitions>

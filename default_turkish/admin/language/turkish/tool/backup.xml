@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Backup / Restore / Laden]]></value>
+  </definition>
+  <definition>
+    <key>text_backup</key>
+    <value><![CDATA[Kostenfreier Download von Backup]]></value>
+  </definition>
+  <definition>
+    <key>text_success_backup</key>
+    <value><![CDATA[Erfolg: Sie haben erfolgreich Backup-Datei erstellt!]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben erfolgreich Ihre Datenbank importiert!]]></value>
+  </definition>
+  <definition>
+    <key>text_success_xml</key>
+    <value><![CDATA[Erfolg: Sie haben erfolgreich Ihre XML-Import!]]></value>
+  </definition>
+  <definition>
+    <key>entry_restore</key>
+    <value><![CDATA[Restore:]]></value>
+  </definition>
+  <definition>
+    <key>entry_backup</key>
+    <value><![CDATA[Backup:]]></value>
+  </definition>
+  <definition>
+    <key>entry_restore</key>
+    <value><![CDATA[Restore:]]></value>
+  </definition>
+  <definition>
+    <key>entry_loadxml</key>
+    <value><![CDATA[Laden von XML-Datei:]]></value>
+  </definition>
+  <definition>
+    <key>tab_backup</key>
+    <value><![CDATA[Sichern]]></value>
+  </definition>
+  <definition>
+    <key>tab_restore</key>
+    <value><![CDATA[Wiederherstellen]]></value>
+  </definition>
+  <definition>
+    <key>tab_loadxml</key>
+    <value><![CDATA[Laden von XML]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, um Backups zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_empty</key>
+    <value><![CDATA[Warnung: Die hochgeladene Datei war leer!]]></value>
+  </definition>
+  <definition>
+    <key>error_xml</key>
+    <value><![CDATA[Warnung: Die hochgeladene Datei nicht als XML geladen! Bitte, sehen Sie Log-Datei für Details]]></value>
+  </definition>
+  <definition>
+    <key>note_rl</key>
+    <value><![CDATA[Ressourcenbibliothek Dateien]]></value>
+  </definition>
+  <definition>
+    <key>note_config</key>
+    <value><![CDATA[Config.php. Hinweis: Halten Sie Backup-Archiv sicher. Die Datei wird "Salz" für die Verschlüsselung enthalten.]]></value>
+  </definition>
+</definitions>

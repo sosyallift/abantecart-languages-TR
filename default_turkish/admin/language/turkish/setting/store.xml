@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Einstellungen]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben die Einstellungen geändert!]]></value>
+  </definition>
+  <definition>
+    <key>text_image_manager</key>
+    <value><![CDATA[Image Manager]]></value>
+  </definition>
+  <definition>
+    <key>text_default</key>
+    <value><![CDATA[Default]]></value>
+  </definition>
+  <definition>
+    <key>text_edit_store</key>
+    <value><![CDATA[Bearbeiten Store:]]></value>
+  </definition>
+  <definition>
+    <key>entry_name</key>
+    <value><![CDATA[Shop-Name:]]></value>
+  </definition>
+  <definition>
+    <key>entry_url</key>
+    <value><![CDATA[Shop URL: <br /> <span class="help">Die vollständige URL zu Ihrem Geschäft. Vergewissern Sie sich zum Hinzufügen &#39;/&#39; am Ende. Beispiel: http://www.yourdomain.com/path/ <br /><br /> Verwenden Sie keine Verzeichnisse, um einen neuen Shop erstellen. Sie sollten immer darauf eine weitere Domain oder Sub-Domain zu Ihrem Hosting.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_ssl</key>
+    <value><![CDATA[SSL verwenden: <br /> <span class="help">Um SSL-Check mit Ihrem Host zu verwenden, wenn ein SSL-Zertifikat installiert ist.</span>]]></value>
+  </definition>
+  <definition>
+    <key>entry_title</key>
+    <value><![CDATA[Titel:]]></value>
+  </definition>
+  <definition>
+    <key>entry_meta_description</key>
+    <value><![CDATA[Meta Tag Beschreibung:]]></value>
+  </definition>
+  <definition>
+    <key>entry_template</key>
+    <value><![CDATA[Vorlage:]]></value>
+  </definition>
+  <definition>
+    <key>entry_description</key>
+    <value><![CDATA[Willkommen Nachricht:]]></value>
+  </definition>
+  <definition>
+    <key>entry_country</key>
+    <value><![CDATA[Land:]]></value>
+  </definition>
+  <definition>
+    <key>entry_zone</key>
+    <value><![CDATA[Region / Bundesland:]]></value>
+  </definition>
+  <definition>
+    <key>entry_language</key>
+    <value><![CDATA[Sprache:]]></value>
+  </definition>
+  <definition>
+    <key>entry_status</key>
+    <value><![CDATA[Store Status <br /> <span class="help">Bewahren Sie den Status in einem Schaufenster. Status AUS leiten wird zu speichern nachkommt. Verwenden Sie Maintenance Mode Einstellung temporären Speicher Wartungsmeldung gesetzt</span> </span]]></value>
+  </definition>
+  <definition>
+    <key>entry_alias</key>
+    <value><![CDATA[Name Alias <br /> <span class="help">Store Name Alias. Wenn leer, wird auf verkürzten Namen basieren</span> </span]]></value>
+  </definition>
+  <definition>
+    <key>entry_status</key>
+    <value><![CDATA[Store Status <br /> <span class="help">Bewahren Sie den Status in einem Schaufenster. Status AUS leiten wird zu speichern nachkommt. Verwenden Sie Maintenance Mode Einstellung temporären Speicher Wartungsmeldung gesetzt</span> </span]]></value>
+  </definition>
+  <definition>
+    <key>button_add_store</key>
+    <value><![CDATA[Erstellen Sie eine neue Filiale]]></value>
+  </definition>
+  <definition>
+    <key>button_delete_store</key>
+    <value><![CDATA[Löschen Shop]]></value>
+  </definition>
+  <definition>
+    <key>button_edit_settings</key>
+    <value><![CDATA[Einstellungen bearbeiten]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung, in die Läden zu ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_name</key>
+    <value><![CDATA[Shop-Name muss zwischen 3 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_url</key>
+    <value><![CDATA[Shop-URL erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_title</key>
+    <value><![CDATA[Titel muss zwischen 3 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_thumb</key>
+    <value><![CDATA[Product Image Daumen Größe Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_popup</key>
+    <value><![CDATA[Produkt-Bild Popup-Größe Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_category</key>
+    <value><![CDATA[Kategorie: Liste Größe Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_product</key>
+    <value><![CDATA[Produkt-Liste Größe Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_additional</key>
+    <value><![CDATA[Weitere Produktinformation Größe des Bildes Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_related</key>
+    <value><![CDATA[In Verbindung stehende Artikel Größe des Bildes Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_cart</key>
+    <value><![CDATA[Cart Größe des Bildes Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_image_grid</key>
+    <value><![CDATA[Grid-Größe des Bildes Dimensionen erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>error_store</key>
+    <value><![CDATA[Achtung: Dieses Shop können nicht gelöscht, da es derzeit zugewiesen ist, werden %s Bestellungen!]]></value>
+  </definition>
+  <definition>
+    <key>error_required_data</key>
+    <value><![CDATA[Erforderliche Daten noch nicht eingegeben. Überprüfen Sie für das Feld Fehler!]]></value>
+  </definition>
+  <definition>
+    <key>error_limit</key>
+    <value><![CDATA[Beschränken erforderlich!]]></value>
+  </definition>
+  <definition>
+    <key>entry_clone_store</key>
+    <value><![CDATA[Einstellungen kopieren: <br/> <span class="help">Sie können Kopien aller Einstellungen von einigen bestehenden Shop wählen</span>]]></value>
+  </definition>
+</definitions>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>heading_title</key>
+    <value><![CDATA[Lager Status]]></value>
+  </definition>
+  <definition>
+    <key>text_status</key>
+    <value><![CDATA[Lagerstatus]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Erfolg: Sie haben Lager-Status geändert!]]></value>
+  </definition>
+  <definition>
+    <key>column_name</key>
+    <value><![CDATA[Lager Status Name]]></value>
+  </definition>
+  <definition>
+    <key>column_action</key>
+    <value><![CDATA[Aktion]]></value>
+  </definition>
+  <definition>
+    <key>entry_name</key>
+    <value><![CDATA[Lagerstatus Name:]]></value>
+  </definition>
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warnung: Sie haben keine Berechtigung auf Lager Statuen ändern!]]></value>
+  </definition>
+  <definition>
+    <key>error_name</key>
+    <value><![CDATA[Lagerstatus Name muss zwischen 2 und 32 Zeichen lang sein!]]></value>
+  </definition>
+  <definition>
+    <key>error_product</key>
+    <value><![CDATA[Achtung: Dieses Lager-Status kann nicht gelöscht werden, wie es derzeit zugewiesen ist, werden %s Produkte!]]></value>
+  </definition>
+</definitions>
